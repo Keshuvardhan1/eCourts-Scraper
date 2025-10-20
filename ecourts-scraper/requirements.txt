@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+python-dateutil
+tqdm
+pymupdf
+flask
+selenium
+webdriver-manager
+rich
+pytesseract
+Pillow
