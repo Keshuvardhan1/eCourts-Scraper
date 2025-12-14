@@ -2,6 +2,8 @@
 
 A simple and responsive **Cancer Awareness & Support** web application built using **React**. This project was created as part of a technical assessment to demonstrate frontend development skills, component-based architecture, API integration, and responsive design.
 
+🔗 **Live Demo:** [https://melodic-elf-f5a8fc.netlify.app/](https://melodic-elf-f5a8fc.netlify.app/)
+
 ---
 
 ## 🌟 Features
@@ -81,7 +83,7 @@ Example endpoint:
 
 ```
 https://api.quotable.io/random
-``
+```
 
 ---
 
